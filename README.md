@@ -25,7 +25,7 @@ hello-docker/
 ├── Dockerfile         # Docker configuration
 ├── hello.py           # Python script
 └── README.md          # Documentation
-
+```
 
 ## 🛠️ Tools Used
 
